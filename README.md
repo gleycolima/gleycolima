@@ -1,9 +1,10 @@
 <img
-  src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey,+I'm+Gleyco+%E2%80%93+Developer+and+Tech+Student.;Welcome+to+my+Profile!"
+  src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=32&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=900&height=50&lines=Hey,+I'm+Gleyco+%E2%80%93+Developer+and+Tech+Student.;Welcome+to+my+Profile!"
   alt="Hey, I'm Gleyco animated typing SVG"
   align="middle"
   style="max-width: 100%;"
 />
+
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
